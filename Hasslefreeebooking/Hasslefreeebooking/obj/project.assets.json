@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\krishnavamsi.nalluri\\.nuget\\packages\\": {}
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krishnavamsi.nalluri\\Backend-Makemytrip\\Booking-app\\Hasslefreeebooking\\Hasslefreeebooking\\Hasslefreeebooking.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Booking\\Booking-app\\Hasslefreeebooking\\Hasslefreeebooking\\Hasslefreeebooking.csproj",
       "projectName": "Hasslefreeebooking",
-      "projectPath": "C:\\Users\\krishnavamsi.nalluri\\Backend-Makemytrip\\Booking-app\\Hasslefreeebooking\\Hasslefreeebooking\\Hasslefreeebooking.csproj",
-      "packagesPath": "C:\\Users\\krishnavamsi.nalluri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krishnavamsi.nalluri\\Backend-Makemytrip\\Booking-app\\Hasslefreeebooking\\Hasslefreeebooking\\obj\\",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\Booking\\Booking-app\\Hasslefreeebooking\\Hasslefreeebooking\\Hasslefreeebooking.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\Booking\\Booking-app\\Hasslefreeebooking\\Hasslefreeebooking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\krishnavamsi.nalluri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -533,6 +533,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -541,7 +559,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
